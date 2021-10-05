@@ -1,12 +1,13 @@
-## Hi there 👋
+## Idealised convective scale DA experiments using modified RSW models.
 
-<!--
+This organization comprises ...
 
-**Here are some ideas to get you started:**
+**Note that:** ...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+## Repositories
+---
+* [Kent (2016) and Kent et al. (2017): preliminary model and EnKF](https://github.com/tkent198/modRSW_EnKF)
+* [Kent et al. 2021: Idealized DA experiments for convective-scale NWP using modRSW](https://github.com/modRSW-convective-scale-DA)
+* [Cantarello et al. (2021): experiments using the isen-modRSW](https://github.com/modRSW-convective-scale-DA)
+---
+
