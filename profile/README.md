@@ -1,4 +1,4 @@
-## Modified RSW models in idealized DA experiments for convective-scale NWP
+## Ensemble-based DA experiments with modified RSW models and their relevance for convective-scale NWP
 
 This organization comprises ...
 
